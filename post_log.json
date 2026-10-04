@@ -9,5 +9,16 @@
    "linkedin"
   ],
   "status": "facebook sent; instagram & linkedin sending"
+ },
+ {
+  "date": "2026-10-04",
+  "topic": "Process steps (Tell us your problem > proposal > build/launch/support)",
+  "hook": "Not sure where to start with custom software?",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
