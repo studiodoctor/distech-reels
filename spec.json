@@ -1,6 +1,6 @@
-{"hook":"Not sure where to start with custom software?",
+{"hook":"Is your software talking to WhatsApp and payments?",
 "slides":[
-{"title":"Tell us your problem","body":"Start with a plain conversation about what slows your business down."},
-{"title":"Get a clear proposal","body":"We define the solution, then you receive a clear proposal first."},
-{"title":"Build, launch, support","body":"We build and test, launch it, then keep improving after go-live."}],
-"cta":"Start with a conversation","handle":"distech.co.za"}
+{"title":"Connect your tools","body":"We build API and system integrations around how your business works."},
+{"title":"WhatsApp and payments","body":"Payment and WhatsApp integrations built into your custom software."},
+{"title":"Less manual admin","body":"Connected systems mean fewer copy-and-paste jobs for your team."}],
+"cta":"Let's connect your systems","handle":"distech.co.za"}
