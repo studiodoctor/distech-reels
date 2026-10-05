@@ -20,5 +20,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6ac1f6c7aa79e514b90fd6e6, FB 6ac1f6c9aa79e514b90fd728, LI 6ac1f6cb814d657011e6b00b)"
+ },
+ {
+  "date": "2026-10-05",
+  "topic": "API/system integrations (payments & WhatsApp)",
+  "hook": "Is your software talking to WhatsApp and payments?",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6ac348335de5ee424c2aed71, FB 6ac348345de5ee424c2aedb1, LI 6ac348375de5ee424c2aede9)"
  }
 ]
