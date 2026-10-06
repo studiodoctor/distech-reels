@@ -31,5 +31,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6ac348335de5ee424c2aed71, FB 6ac348345de5ee424c2aedb1, LI 6ac348375de5ee424c2aede9)"
+ },
+ {
+  "date": "2026-10-06",
+  "topic": "FAQ myth-buster: build timelines (few weeks small tool, few months larger system, proposal first)",
+  "hook": "Think custom software takes years to build?",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6ac499db98d02b181e252d16, FB 6ac499dd59057dd2e0d7702f, LI 6ac499dfacc08dcd5ea666bd)"
  }
 ]
