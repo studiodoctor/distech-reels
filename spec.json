@@ -1,6 +1,6 @@
-{"hook":"Is your software talking to WhatsApp and payments?",
+{"hook":"Think custom software takes years to build?",
 "slides":[
-{"title":"Connect your tools","body":"We build API and system integrations around how your business works."},
-{"title":"WhatsApp and payments","body":"Payment and WhatsApp integrations built into your custom software."},
-{"title":"Less manual admin","body":"Connected systems mean fewer copy-and-paste jobs for your team."}],
-"cta":"Let's connect your systems","handle":"distech.co.za"}
+{"title":"A small tool: weeks","body":"A smaller custom tool can be built in just a few weeks."},
+{"title":"A larger system: months","body":"A bigger system typically takes a few months, built step by step."},
+{"title":"Clear proposal first","body":"You get a clear proposal before any build begins. No surprises."}],
+"cta":"Tell us your problem","handle":"distech.co.za"}
