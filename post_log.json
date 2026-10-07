@@ -42,5 +42,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6ac499db98d02b181e252d16, FB 6ac499dd59057dd2e0d7702f, LI 6ac499dfacc08dcd5ea666bd)"
+ },
+ {
+  "date": "2026-10-07",
+  "topic": "Automation tip: removing manual admin (business automation, built around your process, proposal first)",
+  "hook": "Is your team drowning in manual admin?",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
