@@ -53,5 +53,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6ac5eafdc22c37a573bc03e0, FB 6ac5eaff6d07ab8da75f775e, LI 6ac5eb01203d24e39e110200)"
+ },
+ {
+  "date": "2026-10-08",
+  "topic": "Service spotlight: mobile app development (Android, iOS, Flutter; proposal first)",
+  "hook": "Need a mobile app for your business?",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6ac73cbf448f2e0d85d84a9d, FB 6ac73cc1cec38ef8c0460bbb, LI 6ac73cc38dbd42e4bc86c219)"
  }
 ]
