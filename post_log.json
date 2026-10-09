@@ -75,5 +75,18 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6ac88e327d9f9f33012a644e, FB 6ac88e34987e694c3c45c3b6, LI 6ac88e367d9f9f33012a6500)"
+ },
+ {
+  "date": "2026-10-09",
+  "run": 2,
+  "topic": "Pain-point: WhatsApp-run admin -> WhatsApp integrations, automation, proposal first",
+  "hook": "Is WhatsApp running your business admin?",
+  "style": "dots/wipe/center; dorian 96bpm marimba shaker",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "shareNow 10:03 SAST (IG 6ac89faaf07e682de6ab3f8f sending, FB 6ac89fb57d9f9f33012da476 sent, LI 6ac89fbf9db755aaaacd12a5 sending)"
  }
 ]
