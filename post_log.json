@@ -100,5 +100,17 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6ac9df68b07d37ac97631e0e, FB 6ac9df6ab07d37ac97631e52, LI 6ac9df6cf91f772d4583f6a3)"
+ },
+ {
+  "date": "2026-10-11",
+  "topic": "Who we help / human connection: talk directly to the people building your software (custom, 6-step process)",
+  "hook": "Who actually builds your software?",
+  "style": "glow/rise/left; major_pent 90bpm bell soft drums",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6acb30f3ed92ed8fa5f3f8fb, FB 6acb30f5bba9419ccb28dc4d, LI 6acb30f7bba9419ccb28dc8b)"
  }
 ]
