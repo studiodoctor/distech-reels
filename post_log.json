@@ -112,5 +112,17 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6acb30f3ed92ed8fa5f3f8fb, FB 6acb30f5bba9419ccb28dc4d, LI 6acb30f7bba9419ccb28dc8b)"
+ },
+ {
+  "date": "2026-10-12",
+  "topic": "CRM/ERP: one system instead of scattered spreadsheets (custom, proposal first)",
+  "hook": "Is your business still run from scattered spreadsheets?",
+  "style": "rings/slide/left; minor_pent 112bpm marimba no drums",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
