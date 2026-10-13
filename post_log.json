@@ -124,5 +124,17 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6acc82b58e8dd50ffc6dce4f, FB 6acc82b8fa026cfb812cc8b8, LI 6acc82ba7db619a291603cb8)"
+ },
+ {
+  "date": "2026-10-13",
+  "topic": "Service spotlight: maintenance & support (support and improve step, talk to the builders)",
+  "hook": "What happens after your software launches?",
+  "style": "stripes/wipe/center; dorian 102bpm pluck shaker",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
