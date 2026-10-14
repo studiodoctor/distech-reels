@@ -136,5 +136,17 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6acdd4175229b40e86990374, FB 6acdd4195229b40e869903d1, LI 6acdd41b3d6121df4045ccf7)"
+ },
+ {
+  "date": "2026-10-14",
+  "topic": "Service spotlight: custom business software (built around your business vs off-the-shelf; problem first, clear proposal)",
+  "hook": "Tired of bending your business to fit off-the-shelf software?",
+  "style": "dots/fade/center; lydian 90bpm bell soft drums",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6acf25e90d20fd15278314a9, FB 6acf25eb0d20fd15278314f5, LI 6acf25ed0d20fd1527831565); video hosted on branch claude/affectionate-bohr-ylw5pj"
  }
 ]
