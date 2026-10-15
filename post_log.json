@@ -136,5 +136,17 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6acdd4175229b40e86990374, FB 6acdd4195229b40e869903d1, LI 6acdd41b3d6121df4045ccf7)"
+ },
+ {
+  "date": "2026-10-15",
+  "topic": "Service spotlight: custom business software (built around your business, clear proposal first)",
+  "hook": "Is your business built around your software?",
+  "style": "bars/rise/left; major_pent 90bpm marimba soft drums",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6ad077460ad4869c077f4afb, FB 6ad07749f702624d49f1e25e, LI 6ad0774b8886414c963d438b)"
  }
 ]
