@@ -136,5 +136,17 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6acdd4175229b40e86990374, FB 6acdd4195229b40e869903d1, LI 6acdd41b3d6121df4045ccf7)"
+ },
+ {
+  "date": "2026-10-16",
+  "topic": "Pricing transparency (smaller custom projects from around R20,000, estimate before work begins)",
+  "hook": "Think custom software is out of your budget?",
+  "style": "glow/slide/left; minor_pent 112bpm pluck no drums",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6ad1c8db9597cd16626e62ed, FB 6ad1c8dd9597cd16626e6648, LI 6ad1c8dfa82f34dbe14d17f5)"
  }
 ]
