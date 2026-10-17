@@ -136,5 +136,17 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6acdd4175229b40e86990374, FB 6acdd4195229b40e869903d1, LI 6acdd41b3d6121df4045ccf7)"
+ },
+ {
+  "date": "2026-10-17",
+  "topic": "Service spotlight: custom business software (built around your business, clear proposal first, from around R20,000)",
+  "hook": "Is off-the-shelf software forcing you to change how you work?",
+  "style": "rings/wipe/center; dorian 102bpm bell shaker",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6ad31a15bd148f7de426a1de, FB 6ad31a17bd148f7de426a254, LI 6ad31a1a1c7e49ea4c3f660f)"
  }
 ]
