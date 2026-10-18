@@ -136,5 +136,17 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6acdd4175229b40e86990374, FB 6acdd4195229b40e869903d1, LI 6acdd41b3d6121df4045ccf7)"
+ },
+ {
+  "date": "2026-10-18",
+  "topic": "Pricing transparency / process: tell us your problem, clear proposal before build, from R20,000 with estimate",
+  "hook": "Will you know the price before we build?",
+  "style": "stripes/fade/center; lydian 84bpm marimba soft drums",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6ad46b9a6d56c60a73fc3595, FB 6ad46b9c6d56c60a73fc361a, LI 6ad46b9e769b457934af320f)"
  }
 ]
