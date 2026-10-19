@@ -136,5 +136,17 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6acdd4175229b40e86990374, FB 6acdd4195229b40e869903d1, LI 6acdd41b3d6121df4045ccf7)"
+ },
+ {
+  "date": "2026-10-19",
+  "topic": "Service spotlight: API/system integrations (payments & WhatsApp, clear proposal first)",
+  "hook": "Still re-typing data between your systems?",
+  "style": "dots/rise/left; major_pent 96bpm pluck soft drums",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
