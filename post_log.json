@@ -136,5 +136,17 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6acdd4175229b40e86990374, FB 6acdd4195229b40e869903d1, LI 6acdd41b3d6121df4045ccf7)"
+ },
+ {
+  "date": "2026-10-20",
+  "topic": "Process steps: idea to working software (tell us the problem > clear proposal > build/test/launch/support)",
+  "hook": "How does an idea become working software?",
+  "style": "bars/slide/left; minor_pent 96bpm bell",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6ad70ec5cba41b0140654da3, FB 6ad70ec72fcafd0f18546e9d, LI 6ad70eca9d034d7aede03c8c)"
  }
 ]
