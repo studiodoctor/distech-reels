@@ -136,5 +136,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6acdd4175229b40e86990374, FB 6acdd4195229b40e869903d1, LI 6acdd41b3d6121df4045ccf7)"
+ },
+ {
+  "date": "2026-10-21",
+  "topic": "FAQ: how long does custom software take (few weeks small tool, few months larger system)",
+  "hook": "How long does custom software really take?",
+  "style": "glow/wipe/center; dorian 102bpm marimba shaker",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6ad86080d894396f66ce2cec, LI 6ad86082db7d8198214d1afd); Facebook channel 6690fc80602872be45d043e3 not found in Buffer, not posted"
  }
 ]
