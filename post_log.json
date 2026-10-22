@@ -136,5 +136,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6acdd4175229b40e86990374, FB 6acdd4195229b40e869903d1, LI 6acdd41b3d6121df4045ccf7)"
+ },
+ {
+  "date": "2026-10-22",
+  "topic": "Automation tip: removing repetitive admin (built around your process, proposal first, 6-step process)",
+  "hook": "Still repeating the same admin by hand?",
+  "style": "rings/fade/center; lydian 90bpm pluck soft drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "shareNow 08:48 SAST (IG 6ad9b1c8b086d40f5739a26c sending, LI 6ad9b1d3deacf5d2533396f9 sending); Facebook skipped: channel 6690fc80602872be45d043e3 no longer exists in Buffer (404)"
  }
 ]
