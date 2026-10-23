@@ -147,5 +147,16 @@
    "linkedin"
   ],
   "status": "shareNow 08:48 SAST (IG 6ad9b1c8b086d40f5739a26c sending, LI 6ad9b1d3deacf5d2533396f9 sending); Facebook skipped: channel 6690fc80602872be45d043e3 no longer exists in Buffer (404)"
+ },
+ {
+  "date": "2026-10-23",
+  "topic": "Service spotlight: custom business software (built around your business, talk to the builders, clear proposal first, from R20,000)",
+  "hook": "Is off-the-shelf software holding your business back?",
+  "style": "stripes/rise/left; major pentatonic 102bpm bell soft drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
