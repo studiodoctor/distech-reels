@@ -158,5 +158,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6adb033fd447d56a64804d90, LI 6adb0341535235087b87e8e3); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer"
+ },
+ {
+  "date": "2026-10-24",
+  "topic": "Portfolio case study: Book Me Now SA, Nexivo, Namak Indian Restaurant, Paayal Traders (built around each business, proposal first, talk to the builders)",
+  "hook": "Who is already trusting Distech with their software?",
+  "style": "dots/slide/left; minor pentatonic 112bpm marimba no drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
