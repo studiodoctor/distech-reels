@@ -169,5 +169,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6adc548d3d5b27036b6f2235, LI 6adc548f6887a2efc1a24d91); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer"
+ },
+ {
+  "date": "2026-10-25",
+  "topic": "Pricing transparency (smaller custom projects from around R20,000, estimate/proposal before work, built around your business)",
+  "hook": "Afraid custom software costs a fortune?",
+  "style": "bars/wipe/center; dorian 84bpm pluck shaker",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
