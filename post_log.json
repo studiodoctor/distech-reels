@@ -180,5 +180,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6adda6598b3d437ddcf51bb3, LI 6adda65b3d5b27036bbd439d); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer"
+ },
+ {
+  "date": "2026-10-26",
+  "topic": "CRM/ERP: customers and operations in one custom system (built around your business, proposal first, talk to the builders)",
+  "hook": "Is your team juggling too many separate tools?",
+  "style": "glow/fade/center; lydian 96bpm bell soft drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6adef81ee4fd2be3e657d36f, LI 6adef82044e0f3cdcac4ac23); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za unreachable from sandbox, used known facts only"
  }
 ]
