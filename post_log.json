@@ -191,5 +191,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6adef81ee4fd2be3e657d36f, LI 6adef82044e0f3cdcac4ac23); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za unreachable from sandbox, used known facts only"
+ },
+ {
+  "date": "2026-10-27",
+  "topic": "Process steps (tell us your problem, clear proposal first, build/launch/support, talk to the builders)",
+  "hook": "Not sure how a custom software project works?",
+  "style": "rings/rise/left; major pentatonic 84bpm marimba soft drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6ae04948fece4f64136fae40, LI 6ae0494bed1289d11696029b); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
  }
 ]
