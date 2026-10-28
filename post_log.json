@@ -202,5 +202,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6ae04948fece4f64136fae40, LI 6ae0494bed1289d11696029b); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-10-28",
+  "topic": "Service spotlight: mobile app development (Android, iOS, Flutter; built around your processes, proposal first, talk to the builders)",
+  "hook": "Need a mobile app for your business?",
+  "style": "stripes/slide/left; minor pentatonic 90bpm pluck no drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6ae19ad8e673d1e589509391, LI 6ae19adbe673d1e5895093e9); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
  }
 ]
