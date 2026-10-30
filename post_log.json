@@ -224,5 +224,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6ae2ec49f66393dd569117ff, LI 6ae2ec4b2467e67f128368a5); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za unreachable from sandbox (proxy 403), used known facts only"
+ },
+ {
+  "date": "2026-10-30",
+  "topic": "Service spotlight: API/system integrations (payments & WhatsApp, clear proposal first, talk to the builders)",
+  "hook": "Do your systems talk to each other?",
+  "style": "bars/fade/center; lydian 84bpm marimba soft drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
