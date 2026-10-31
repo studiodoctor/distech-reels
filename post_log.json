@@ -235,5 +235,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6ae43dee56e01b97638f354d, LI 6ae43df0a83a7fb63c9b5971); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-10-31",
+  "topic": "FAQ myth-buster: custom software takes years? (small tool few weeks, larger system few months, clear proposal first, talk to the builders)",
+  "hook": "Think custom software takes years to build?",
+  "style": "glow/rise/left; major_pent 96bpm pluck soft drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6ae58eee1891472093ba3882, LI 6ae58ef01891472093ba38d1); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
  }
 ]
