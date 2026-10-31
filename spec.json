@@ -1,6 +1,6 @@
-{"hook":"Do your systems talk to each other?",
+{"hook":"Think custom software takes years to build?",
 "slides":[
-{"title":"Connect your tools","body":"We build API and system integrations so your software works as one."},
-{"title":"Payments and WhatsApp","body":"Take payments and message customers on WhatsApp from inside your own system."},
-{"title":"Clear proposal first","body":"You get a clear proposal before work begins, and talk to the builders."}],
+{"title":"Myth: it takes years","body":"A small custom tool can take just a few weeks to build."},
+{"title":"Bigger systems? Months","body":"Larger custom systems take a few months, not years."},
+{"title":"Know before we start","body":"You get a clear proposal first, and talk to the people building it."}],
 "cta":"Start the conversation at distech.co.za","handle":"distech.co.za"}
