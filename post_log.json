@@ -268,5 +268,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6ae832a71a965d64fbf39383, LI 6ae832a9c60bdbcc33dd73f5); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-03",
+  "topic": "Who we help: custom software isn't only for big companies (SME fit, from R20,000 with estimate first, talk to the builders)",
+  "hook": "Is your business too small for custom software?",
+  "style": "dots/fade/center; lydian 84bpm pluck soft drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6ae983b964e1ad8ea2ebb5f7, LI 6ae983bb3b00665c737b950d); Facebook skipped: channel no longer in Buffer; distech.co.za not fetched, used known facts only"
  }
 ]
