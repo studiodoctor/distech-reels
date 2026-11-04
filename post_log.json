@@ -279,5 +279,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6ae983b964e1ad8ea2ebb5f7, LI 6ae983bb3b00665c737b950d); Facebook skipped: channel no longer in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-04",
+  "topic": "Automation tip / pain-point: outgrowing spreadsheets and manual admin (custom software built around your process, clear proposal first)",
+  "hook": "Still running your business on spreadsheets?",
+  "style": "bars/rise/left; major_pent 112bpm bell soft drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6aead52edc38f4d7bad3c958, LI 6aead530dc38f4d7bad3caa2); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
  }
 ]
