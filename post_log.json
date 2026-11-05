@@ -290,5 +290,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6aead52edc38f4d7bad3c958, LI 6aead530dc38f4d7bad3caa2); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-05",
+  "topic": "Service spotlight: business automation (routine work off your team, built around your process, clear proposal first, talk to the builders)",
+  "hook": "Which tasks could your business automate?",
+  "style": "glow/slide/left; minor_pent 108bpm marimba no drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
