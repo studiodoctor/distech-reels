@@ -301,5 +301,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6aec26c2660b2991f15857c4, LI 6aec26c475052a1eb82587ce); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-06",
+  "topic": "Service spotlight: custom business software (built around your business, talk to the builders, clear proposal first, from R20,000)",
+  "hook": "Why bend your business around your software?",
+  "style": "rings/wipe/center; dorian 90bpm pluck shaker",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6aed77fcc1e74b84e5d050cc, LI 6aed77fe86fe9b83797a5628); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
  }
 ]
