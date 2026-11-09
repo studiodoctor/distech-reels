@@ -334,5 +334,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6af01ae89214322f683809da, LI 6af01aea004e4879a79de290); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-09",
+  "topic": "CRM/ERP spotlight: Distech CRM and Distech ERP, or custom built around your business",
+  "hook": "Do you know where every customer stands?",
+  "style": "bars/slide/left; minor_pent 112bpm pluck no drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
