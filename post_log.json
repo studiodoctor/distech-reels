@@ -345,5 +345,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6af16f1f2f1ff83d451f2f6d, LI 6af16f212f1ff83d451f2fc9); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za unreachable from sandbox (DNS), used known facts only"
+ },
+ {
+  "date": "2026-11-10",
+  "topic": "Process steps (tell us your problem, clear proposal first, build/launch/support, talk to the builders; from R20,000)",
+  "hook": "What happens after you contact a software company?",
+  "style": "glow/wipe/center; dorian 112bpm bell shaker",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6af2bdf0223aa16048f44209, LI 6af2bdf3b59b34913a5f5e1c); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
  }
 ]
