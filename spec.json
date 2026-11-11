@@ -1,6 +1,6 @@
-{"hook":"What happens after you contact a software company?",
+{"hook":"Should your business have its own mobile app?",
 "slides":[
-{"title":"Tell us your problem","body":"Start with a conversation about what is slowing your business down."},
-{"title":"Get a clear proposal","body":"We define the solution and send a clear proposal before any work begins."},
-{"title":"Build, launch, support","body":"We build and test, launch, then keep improving, with the same people."}],
-"cta":"Start the conversation at distech.co.za","handle":"distech.co.za"}
+{"title":"Android and iOS","body":"Apps built for the phones your customers and team already use."},
+{"title":"Built with Flutter","body":"One build approach that can reach both Android and iOS users."},
+{"title":"Around your process","body":"Your app fits how your business works, with a clear proposal first."}],
+"cta":"Talk to the builders at distech.co.za","handle":"distech.co.za"}
