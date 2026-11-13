@@ -378,5 +378,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6af560f73edeaff13c04192d, LI 6af560f997798e85b9ea3a72); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-13",
+  "topic": "Service spotlight: API/system integrations (payments & WhatsApp, clear proposal first)",
+  "hook": "Still copying data between apps by hand?",
+  "style": "dots/slide/left; minor_pent 108bpm bell no drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6af6b2aada25c4db3e9dc37d, LI 6af6b2acfb90ccefdd23dddd); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
  }
 ]
