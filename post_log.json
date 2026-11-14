@@ -389,5 +389,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6af6b2aada25c4db3e9dc37d, LI 6af6b2acfb90ccefdd23dddd); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-14",
+  "topic": "FAQ myth-buster: do you need a perfect brief? (tell us your problem, define the solution, clear proposal first, talk to the builders)",
+  "hook": "Need a perfect brief before calling a developer?",
+  "style": "bars/wipe/center; dorian 90bpm marimba shaker",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6af803f481e1228421eb462a, LI 6af803f64b28296eb13d86be); Facebook skipped: channel 6690fc80602872be45d043e3 no longer in Buffer; distech.co.za not fetched, used known facts only"
  }
 ]
