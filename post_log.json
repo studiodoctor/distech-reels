@@ -411,5 +411,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6af95552c5b364e0623be1f8, LI 6af95555e86a5789a6f440b9); Facebook skipped: channel 6690fc80602872be45d043e3 not connected in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-16",
+  "topic": "Pain-point hook: customer orders lost in WhatsApp chats (custom software built around your process, WhatsApp integrations)",
+  "hook": "Are customer orders getting lost in WhatsApp?",
+  "style": "rings/rise/left; major_pent 108bpm bell soft drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6afaa6e506e1675856d10614, LI 6afaa6e88e87c256a3ba596f); Facebook skipped: channel 6690fc80602872be45d043e3 not found in Buffer (404); distech.co.za not reachable from sandbox, used known facts only; video hosted on branch claude/affectionate-bohr-tjs87v (not main)"
  }
 ]
