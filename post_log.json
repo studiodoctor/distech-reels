@@ -411,5 +411,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6af95552c5b364e0623be1f8, LI 6af95555e86a5789a6f440b9); Facebook skipped: channel 6690fc80602872be45d043e3 not connected in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-17",
+  "topic": "Pain-point hook: customer chats lost in WhatsApp (WhatsApp integrations, clear proposal first, talk to the builders)",
+  "hook": "Are customer chats getting lost in WhatsApp?",
+  "style": "stripes/slide/left; minor_pent 102bpm marimba no drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6afbf879797935b975ea3e04, LI 6afbf87bc6d951405b4a51e3); Facebook skipped: channel 6690fc80602872be45d043e3 not connected in Buffer; distech.co.za not fetched (DNS blocked), used known facts only"
  }
 ]
