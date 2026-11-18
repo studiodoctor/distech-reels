@@ -428,7 +428,10 @@
   "topic": "Service spotlight: maintenance & support (ongoing care after launch, talk to the builders)",
   "hook": "Who fixes your software when it breaks?",
   "style": "dots/wipe/center; dorian 112bpm pluck shaker",
-  "channels": [],
-  "status": "pending"
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6afd49ecec7ce5264371f9a9, LI 6afd49ed739d5342ff0dd286); Facebook skipped: channel 6690fc80602872be45d043e3 not connected in Buffer; distech.co.za not fetched, used known facts only"
  }
 ]
