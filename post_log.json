@@ -441,9 +441,8 @@
   "style": "bars/fade/center; lydian 102bpm bell soft drums",
   "channels": [
    "instagram",
-   "linkedin",
-   "facebook"
+   "linkedin"
   ],
-  "status": "pending"
+  "status": "scheduled 09:00 SAST (IG 6afe9b68749099bdc71838f3, LI 6afe9b6df6b6aa0cd4aa61db); Facebook skipped: channel 6690fc80602872be45d043e3 not connected in Buffer (404); distech.co.za not fetched (unreachable), used known facts only; video hosted on branch claude/affectionate-bohr-y3nr08 raw URL"
  }
 ]
