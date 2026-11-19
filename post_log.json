@@ -433,5 +433,17 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6afd49ecec7ce5264371f9a9, LI 6afd49ed739d5342ff0dd286); Facebook skipped: channel 6690fc80602872be45d043e3 not connected in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-19",
+  "topic": "Who we help: custom software isn't only for big companies (SME fit, from R20,000 with estimate first, talk to the builders)",
+  "hook": "Is your business too small for custom software?",
+  "style": "bars/fade/center; lydian 102bpm bell soft drums",
+  "channels": [
+   "instagram",
+   "linkedin",
+   "facebook"
+  ],
+  "status": "pending"
  }
 ]
