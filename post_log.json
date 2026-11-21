@@ -444,5 +444,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6affecfe738ce4635f92666e, LI 6affed01d5f8acdd0d7a31a8); Facebook skipped: channel 6690fc80602872be45d043e3 not connected in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-21",
+  "topic": "Who we help: custom software isn't only for big companies (smaller projects from ~R20,000, talk to the builders, clear proposal first)",
+  "hook": "Is your business too small for custom software?",
+  "style": "rings/slide/left; minor_pent 84bpm pluck no drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6b013e5dd9cbb430a1261c05, LI 6b013e60d9cbb430a1261c4c); Facebook skipped: channel 6690fc80602872be45d043e3 not connected in Buffer; distech.co.za not fetched (proxy blocked), used known facts only; video hosted on branch claude/affectionate-bohr-ndf5xi"
  }
 ]
