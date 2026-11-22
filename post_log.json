@@ -444,5 +444,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6affecfe738ce4635f92666e, LI 6affed01d5f8acdd0d7a31a8); Facebook skipped: channel 6690fc80602872be45d043e3 not connected in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-22",
+  "topic": "Who we help: custom software for growing South African businesses (from R20,000 with estimate first, talk to the builders)",
+  "hook": "Is your growing business outgrowing its software?",
+  "style": "stripes/wipe/center; dorian 102bpm bell shaker",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
