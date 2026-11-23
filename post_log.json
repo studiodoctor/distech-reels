@@ -465,6 +465,6 @@
    "instagram",
    "linkedin"
   ],
-  "status": "pending"
+  "status": "scheduled 09:00 SAST (IG 6b03e177846b0ee907ed8a57, LI 6b03e179d5eabfb8cc10c46e); Facebook skipped: channel 6690fc80602872be45d043e3 not in Buffer channel list; distech.co.za not reachable from session (not in allowed domains), used known facts only"
  }
 ]
