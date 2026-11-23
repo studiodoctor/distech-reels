@@ -455,5 +455,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6b029000846b0ee90766906f, LI 6b02900202479690922cd4d6); Facebook skipped: channel 6690fc80602872be45d043e3 not connected in Buffer; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-23",
+  "topic": "Portfolio case study: Book Me Now SA, Nexivo, Namak Indian Restaurant, Paayal Traders (built around the business, clear proposal first)",
+  "hook": "Which South African businesses build with Distech?",
+  "style": "dots/fade/center; lydian 96bpm marimba soft drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
