@@ -466,5 +466,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6b03e177846b0ee907ed8a57, LI 6b03e179d5eabfb8cc10c46e); Facebook skipped: channel 6690fc80602872be45d043e3 not in Buffer channel list; distech.co.za not reachable from session (not in allowed domains), used known facts only"
+ },
+ {
+  "date": "2026-11-24",
+  "topic": "CRM/ERP spotlight: Distech CRM and Distech ERP, or custom built around your business (clear proposal first)",
+  "hook": "Is your business still running on spreadsheets?",
+  "style": "bars/rise/left; major_pent 112bpm pluck soft drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6b0533056e04c676c37276a6, LI 6b053307286252d7383d480d); Facebook skipped: channel 6690fc80602872be45d043e3 not in Buffer channel list; distech.co.za not fetched, used known facts only; video hosted on branch claude/affectionate-bohr-u20oqs; 11-23 LinkedIn post 6b03e179d5eabfb8cc10c46e is in error status (stuck processing)"
  }
 ]
