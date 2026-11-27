@@ -477,5 +477,16 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6b07d5f517fc84b971ac74f8, LI 6b07d5f7f13f49a9259acb65); Facebook skipped: channel 6690fc80602872be45d043e3 not in Buffer channel list; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-27",
+  "topic": "CRM/ERP spotlight: Distech CRM and ERP in one system, built around your business, proposal first",
+  "hook": "Can your team see the whole business in one place?",
+  "style": "stripes/fade/center; lydian 102bpm pluck soft drums",
+  "channels": [
+   "instagram",
+   "linkedin"
+  ],
+  "status": "scheduled 09:00 SAST (IG 6b09278ae94385a8fd7ed720, LI 6b09278c1fd46e62e71dc17c); Facebook skipped: channel 6690fc80602872be45d043e3 not in Buffer channel list; distech.co.za not fetched, used known facts only"
  }
 ]
