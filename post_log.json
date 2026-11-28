@@ -496,9 +496,8 @@
   "style": "dots/rise/left; major_pent 102bpm bell soft drums",
   "channels": [
    "instagram",
-   "facebook",
    "linkedin"
   ],
-  "status": "pending"
+  "status": "scheduled 09:00 SAST (IG 6b0a78e0d718580fbd658314, LI 6b0a78e4d7e53b12ebe4ae29); Facebook skipped: channel 6690fc80602872be45d043e3 not found in Buffer (404, retried once); distech.co.za not reachable from session, used known facts only"
  }
 ]
