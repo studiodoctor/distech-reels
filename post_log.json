@@ -488,5 +488,17 @@
    "linkedin"
   ],
   "status": "scheduled 09:00 SAST (IG 6b09278ae94385a8fd7ed720, LI 6b09278c1fd46e62e71dc17c); Facebook skipped: channel 6690fc80602872be45d043e3 not in Buffer channel list; distech.co.za not fetched, used known facts only"
+ },
+ {
+  "date": "2026-11-28",
+  "topic": "FAQ myth-buster: custom software is not only for big companies (smaller projects from around R20,000, estimate/proposal first, talk to the builders)",
+  "hook": "Is custom software only for big companies?",
+  "style": "dots/rise/left; major_pent 102bpm bell soft drums",
+  "channels": [
+   "instagram",
+   "facebook",
+   "linkedin"
+  ],
+  "status": "pending"
  }
 ]
